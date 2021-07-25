@@ -1,0 +1,9 @@
+.container_toolbar{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.container_logout{
+    display: flex;
+    justify-content: flex-end;
+}
+table td {text-align: left;}
