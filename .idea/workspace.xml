@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e18bad73-4e5f-41ab-9f64-52d1f77f9d91" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/525bde7f-cbc1-4fd0-983c-87023969f6fd.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/525bde7f-cbc1-4fd0-983c-87023969f6fd/storage_v2/_src_/database/users.CI6mBg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/525bde7f-cbc1-4fd0-983c-87023969f6fd/storage_v2/_src_/database/users.CI6mBg/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/525bde7f-cbc1-4fd0-983c-87023969f6fd/storage_v2/_src_/database/users.CI6mBg/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/525bde7f-cbc1-4fd0-983c-87023969f6fd/storage_v2/_src_/database/users.CI6mBg/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb93550b-e281-4ba4-92c7-eda365424ede.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb93550b-e281-4ba4-92c7-eda365424ede/storage_v2/_src_/database/spring.DQKdyg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb93550b-e281-4ba4-92c7-eda365424ede/storage_v2/_src_/database/spring.DQKdyg/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb93550b-e281-4ba4-92c7-eda365424ede/storage_v2/_src_/database/spring.DQKdyg/schema/pg_catalog.0S1ZNQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/fb93550b-e281-4ba4-92c7-eda365424ede/storage_v2/_src_/database/spring.DQKdyg/schema/public.abK9xQ.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +90,7 @@
       <workItem from="1627192670296" duration="6888000" />
       <workItem from="1627208047556" duration="33689000" />
       <workItem from="1627249976148" duration="5869000" />
-      <workItem from="1627271555599" duration="7006000" />
+      <workItem from="1627271555599" duration="7906000" />
     </task>
     <servers />
   </component>
